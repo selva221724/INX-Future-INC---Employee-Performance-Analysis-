@@ -1,0 +1,14 @@
+To below packages should be installed before running the notebook, 
+
+
+1.pandas 
+
+2.numpy
+
+3.random 
+
+4.plotly
+
+5.matplotlib
+
+7.imblearn
